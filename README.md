@@ -1,2 +1,2 @@
 # Bootstrap-Inference-
-Springboard Bootstrap Inference Mini Project
+Ceyhun Sahinkaya Springboard Bootstrap Inference Mini Project
